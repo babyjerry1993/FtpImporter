@@ -1,0 +1,4 @@
+org\nuxeo\ecm\platform\importer\executor\jaxrs\ImporterApp.class
+org\nuxeo\ecm\platform\importer\executor\jaxrs\AbstractJaxRSImporterExecutor.class
+org\nuxeo\ecm\platform\importer\executor\jaxrs\HttpFileImporterExecutor.class
+org\nuxeo\ecm\platform\importer\executor\jaxrs\RandomImporterExecutor.class

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.nuxeo.ecm.platform.importer.tests.TestWordGen
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 1, Time elapsed: 0 sec - in org.nuxeo.ecm.platform.importer.tests.TestWordGen
